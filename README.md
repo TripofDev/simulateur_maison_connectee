@@ -33,12 +33,14 @@ git clone https://github.com/ton-user/maison-connectee.git
 ```shell
 cd maison-connectee
 ```
-
+Faites la commande : 
 ```shell
 pip install matplotlib requests
 ```
-
-Remplacer TOKEN = "USER_CHAT_ID"  par votre chat id telegram
+Pensez à remplacer dans le fichier python 
+```shell
+TOKEN = "USER_CHAT_ID" Avec votre ID à vous
+```
 
 puis 
 
