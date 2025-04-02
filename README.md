@@ -12,7 +12,7 @@ Il utilise la **programmation orientée objet** pour modéliser des pièces, des
 - Appareils (chauffage, lampe, TV, etc.) activés/désactivés automatiquement selon la température d'une piece
 - Sauvegarde des mesures dans un fichier CSV (`analyser.csv`)
 - Génération automatique d’un graphe PDF (`bilan_temp_maison.pdf`)
-- Envoi du graphe tous les jours à 8h via Telegram sur le bot https://t.me/iot_devperso_bot
+- Envoi du graphe sur le bot https://t.me/iot_devperso_bot
 
 ---
 
